@@ -55,14 +55,14 @@ python translator.py
 ```
 
 ## Project Structure
-1. `ASL.ipynb` – Jupyter notebook for experimenting with the model.<br>
-2. `predict.py` – Contains functions to preprocess images and predict ASL alphabets.<br>
-3. `translator.py` – Main script to translate webcam input into text and voice.<br>
-4. `variables.py` – Stores project paths and configuration variables.<br>
-5. `model.h5` – Pre-trained CNN model for ASL recognition.<br>
-6. `alphabet.png` – Reference image of the ASL alphabet.<br>
-7. `requirements.txt` - contains all the dependencies<br>
-8.  `README.md` - contains all the instructions<br>
+1. `ASL.ipynb`:  Jupyter notebook for experimenting with the model.<br>
+2. `predict.py`:  Contains functions to preprocess images and predict ASL alphabets.<br>
+3. `translator.py`:  Main script to translate webcam input into text and voice.<br>
+4. `variables.py`:  Stores project paths and configuration variables.<br>
+5. `model.h5`:  Pre-trained CNN model for ASL recognition.<br>
+6. `alphabet.png`:  Reference image of the ASL alphabet.<br>
+7. `requirements.txt`:  contains all the dependencies<br>
+8.  `README.md`: contains all the instructions<br>
 
    
 ## 📌 Requirements:
