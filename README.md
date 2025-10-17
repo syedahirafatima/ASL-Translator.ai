@@ -82,8 +82,4 @@ All the requirements can be installed from `requirements.txt` file
 
 
 ## 📌 License:
-ASL-Translator.ai License - Testing Only
-
-⚠️ Permission is hereby granted to clone, run, and test this project locally for personal use.  
-⚠️ You may not modify, distribute, copy, or deploy this project publicly.  
-⚠️ All rights reserved by the author.
+Under MIT license
